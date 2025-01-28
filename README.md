@@ -3,7 +3,7 @@
 ## Description
 This project, developed for the Artificial Intelligence exam, explores the phase transition phenomenon in random SAT problems using the WalkSAT algorithm. It includes the generation of random k-CNF formulas, the verification of their satisfiability, and the analysis of results through graphs.
 
-For more details on the implementation and results, refer to the report [here](https://github.com/ferritti/SATPhaseTransition/blob/main/SATPhaseTransition.pdf).
+For more details on the implementation and results, refer to the report (in Italian) [here](https://github.com/ferritti/SATPhaseTransition/blob/main/SATPhaseTransition.pdf).
 
 ## Source Files Structure
 - **`kcnf_generator.py`**  
